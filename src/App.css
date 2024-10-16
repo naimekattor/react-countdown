@@ -1,0 +1,11 @@
+.CountDown-content input{
+width: 70px;
+height: 50px;
+margin: 20px;
+}
+.buttons{
+  margin-left: 20px;
+}
+.buttons button{
+margin: 5px;
+}
